@@ -1,0 +1,95 @@
+@font-face {
+  font-family: "flaticon";
+  src: url("../fonts/flaticon-set-rooftinge381.ttf?622cb10d1ce0f8ff8b951481e94e9412") format("truetype"),
+url("../fonts/flaticon-set-rooftinge381.woff?622cb10d1ce0f8ff8b951481e94e9412") format("woff"),
+url("../fonts/flaticon-set-rooftinge381.woff2?622cb10d1ce0f8ff8b951481e94e9412") format("woff2"),
+url("../fonts/flaticon-set-rooftinge381.eot?622cb10d1ce0f8ff8b951481e94e9412#iefix") format("embedded-opentype"),
+url("../fonts/flaticon-set-rooftinge381.svg?622cb10d1ce0f8ff8b951481e94e9412#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+  font-family: flaticon !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.flaticon-roofting-shovel:before { content: "\f100"; }
+.flaticon-roofting-measuring-tape:before { content: "\f101"; }
+.flaticon-roofting-pillar:before { content: "\f102"; }
+.flaticon-roofting-compass:before { content: "\f103"; }
+.flaticon-roofting-roof:before { content: "\f104"; }
+.flaticon-roofting-shovel-1:before { content: "\f105"; }
+.flaticon-roofting-measuring:before { content: "\f106"; }
+.flaticon-roofting-measuring-tape-1:before { content: "\f107"; }
+.flaticon-roofting-title:before { content: "\f108"; }
+.flaticon-roofting-compass-1:before { content: "\f109"; }
+.flaticon-roofting-fireplace:before { content: "\f10a"; }
+.flaticon-roofting-roof-1:before { content: "\f10b"; }
+.flaticon-roofting-savings:before { content: "\f10c"; }
+.flaticon-roofting-plan:before { content: "\f10d"; }
+.flaticon-roofting-hand-gesture:before { content: "\f10e"; }
+.flaticon-roofting-pillar-1:before { content: "\f10f"; }
+.flaticon-roofting-roof-2:before { content: "\f110"; }
+.flaticon-roofting-color-palette:before { content: "\f111"; }
+.flaticon-roofting-picket:before { content: "\f112"; }
+.flaticon-roofting-ruler:before { content: "\f113"; }
+.flaticon-roofting-draws:before { content: "\f114"; }
+.flaticon-roofting-house-design:before { content: "\f115"; }
+.flaticon-roofting-studying:before { content: "\f116"; }
+.flaticon-roofting-idea:before { content: "\f117"; }
+.flaticon-roofting-award:before { content: "\f118"; }
+.flaticon-roofting-house-design-1:before { content: "\f119"; }
+.flaticon-roofting-architect:before { content: "\f11a"; }
+.flaticon-roofting-table:before { content: "\f11b"; }
+.flaticon-roofting-house-design-2:before { content: "\f11c"; }
+.flaticon-roofting-screwdriver:before { content: "\f11d"; }
+.flaticon-roofting-stairs:before { content: "\f11e"; }
+.flaticon-roofting-stationery:before { content: "\f11f"; }
+.flaticon-roofting-house:before { content: "\f120"; }
+.flaticon-roofting-expand:before { content: "\f121"; }
+.flaticon-roofting-wall:before { content: "\f122"; }
+.flaticon-roofting-engineer:before { content: "\f123"; }
+.flaticon-roofting-ruler-1:before { content: "\f124"; }
+.flaticon-roofting-tools:before { content: "\f125"; }
+.flaticon-roofting-fence:before { content: "\f126"; }
+.flaticon-roofting-drawing:before { content: "\f127"; }
+.flaticon-roofting-crane:before { content: "\f128"; }
+.flaticon-roofting-light-bulb:before { content: "\f129"; }
+.flaticon-roofting-crane-1:before { content: "\f12a"; }
+.flaticon-roofting-helmet:before { content: "\f12b"; }
+.flaticon-roofting-tools-1:before { content: "\f12c"; }
+.flaticon-roofting-parquet:before { content: "\f12d"; }
+.flaticon-roofting-tools-2:before { content: "\f12e"; }
+.flaticon-roofting-light-bulb-1:before { content: "\f12f"; }
+.flaticon-roofting-brick-wall:before { content: "\f130"; }
+.flaticon-roofting-drill:before { content: "\f131"; }
+.flaticon-roofting-parquet-1:before { content: "\f132"; }
+.flaticon-roofting-brick-wall-1:before { content: "\f133"; }
+.flaticon-roofting-hammer:before { content: "\f134"; }
+.flaticon-roofting-wallpaper:before { content: "\f135"; }
+.flaticon-roofting-wheelbarrow:before { content: "\f136"; }
+.flaticon-roofting-brick-wall-2:before { content: "\f137"; }
+.flaticon-roofting-ruler-2:before { content: "\f138"; }
+.flaticon-roofting-paint-roller:before { content: "\f139"; }
+.flaticon-roofting-ruler-3:before { content: "\f13a"; }
+.flaticon-roofting-window:before { content: "\f13b"; }
+.flaticon-roofting-drawing-1:before { content: "\f13c"; }
+.flaticon-roofting-screwdriver-1:before { content: "\f13d"; }
+.flaticon-roofting-paint:before { content: "\f13e"; }
+.flaticon-roofting-web:before { content: "\f13f"; }
+.flaticon-roofting-construction:before { content: "\f140"; }
+.flaticon-roofting-hook:before { content: "\f141"; }
+.flaticon-roofting-plans:before { content: "\f142"; }
+.flaticon-roofting-barrier:before { content: "\f143"; }
+.flaticon-roofting-winch:before { content: "\f144"; }
+.flaticon-roofting-houses:before { content: "\f145"; }
+.flaticon-roofting-trucks:before { content: "\f146"; }
+.flaticon-roofting-barrier-1:before { content: "\f147"; }
+.flaticon-roofting-plumbering:before { content: "\f148"; }
+.flaticon-roofting-gas-pipe:before { content: "\f149"; }
+.flaticon-roofting-tap:before { content: "\f14a"; }

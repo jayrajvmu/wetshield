@@ -1,0 +1,51 @@
+.main-header .main-box .nav-outer{
+    justify-content:center
+}
+
+.custom-flex{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+@media screen and (max-width:610px){
+    .custom-flex{
+
+        flex-direction: column;
+    }
+    
+}
+
+
+.why-choose-us-flex{
+    display: flex;
+    
+}
+
+.why-choose-us-flex .left, .why-choose-us-flex .right{
+    padding: 10px 30px;
+    flex: 0 0 50%;
+}
+
+@media screen and (max-width:992px){
+    .why-choose-us-flex{
+        display: flex;
+        flex-direction: column;
+    }
+    
+}
+
+.testimonial-carousel-two .owl-dots{
+    margin-top: 50px !important;
+}
+
+.project-container{
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.project-container .img-wrapper{
+    padding: 20px;
+}
